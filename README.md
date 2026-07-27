@@ -2,7 +2,7 @@
 
 An AI-powered web application that analyzes resumes, evaluates ATS compatibility, extracts key skills, and provides personalized improvement suggestions. The application also supports secure user authentication and displays relevant job opportunities.
 
-Features
+#Features
 AI-powered resume analysis
 ATS score evaluation
 Resume upload (PDF)
